@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/canhdev.svg" width="1200" alt="canhdev-official" />
+  <img src="svg/oceanham.svg" width="1200" alt="oceanham-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -125,19 +125,15 @@
   <!-- <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a> -->
-  <a href="https://facebook.com/nguyen.uc.canh.186227" target="blank">
+  <a href="[https://facebook.com/nguyen.uc.canh.186227](https://www.facebook.com/baobinh.01.02.2003/)" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://youtube.com/@CảnhNguyễn-v9f" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/cảnh-nguyễn-648a79268/" target="blank">
+
+  <a href="[https://www.linkedin.com/in/cảnh-nguyễn-648a79268/](https://www.linkedin.com/in/huy-ph%E1%BA%A1m-ng%E1%BB%8Dc-4ba6632a2/)" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-  <a href="https://instagram.com/duccank19_0_o" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:nguyenduccanh1523@gmail.com" target="top">
+
+  <a href="mailto:phamngochuy0102@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
