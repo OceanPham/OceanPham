@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/oceanham.svg" width="1200" alt="oceanham-official" />
+  <img src="svg/oceanpham.svg" width="1200" alt="oceanham-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
