@@ -112,7 +112,7 @@
 <br>
 
 <div align=center>
-<a href="#" title="NDCdev">
+<a href="#" title="Ocean Pham">
     <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=OceanPham&theme=react&hide_border=true" />
 </a>
 </div>
